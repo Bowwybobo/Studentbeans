@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Wiley Nubi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Wiley Nubi\\.nuget\\packages"
+    ]
+  }
+}
